@@ -1,8 +1,19 @@
+
+# Deep Learning & Generative AI Project
+
 # DL-24f1001025-notebook-t22026
-# Smart MCQ Solver — IIT Madras DL & GenAI Project
 
-**Student:** 24f1001025
+## Project Title
+ Smart MCQ Solver — IIT Madras DL & GenAI Project
 
+## Student Details
+- Name: Prakash Puri
+- Student ID: 24f1001025
+
+## Project Structure
+- scripts/
+- notebooks/
+- data/
 ## Models Used
 1. TF-IDF Cosine Similarity (baseline — built from scratch)
 2. BART Zero-shot Classification (pre-trained)
@@ -14,6 +25,3 @@
 | TF-IDF | 0.29 |
 | BART Zero-shot | 0.49 |
 | BERT Fine-tuned | 0.73+ |
-
-## Setup
-pip install -r requirements.txt
